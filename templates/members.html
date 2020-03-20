@@ -1,0 +1,10 @@
+Liste aller Member
+
+<ul>
+{% for member in members %}
+<li>{{ member.full_name }}    <img src="{{ member.avatar_url }}"></img>  </li>
+{% endfor %}
+</ul>
+
+
+<li>Probieren geht über Studieren</li>
