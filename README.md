@@ -1,4 +1,8 @@
-# some simple flask examples
+# einfache Backends mit python
+- Basics (Templates, auf GET-Parameter zugreifen)
+- lustige GIFs von giphypop
+- Zulip API
+
 
 # setup
 virtualenv -p python3 venv  
@@ -9,4 +13,4 @@ python zulip-web.py
 
 
 # Links
-[Lightning Talk von Jugend hackt Berlin (Beispiel miti Katzen-GIFs)](https://media.ccc.de/v/jh-berlin-2018-4-lightning_talk_webprogrammierung_mit_python_flask)  
+[Lightning Talk von Jugend hackt Berlin (Beispiel mit Katzen-GIFs](https://media.ccc.de/v/jh-berlin-2018-4-lightning_talk_webprogrammierung_mit_python_flask)  
