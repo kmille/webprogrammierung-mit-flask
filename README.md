@@ -9,4 +9,4 @@ python zulip-web.py
 
 
 # Links
-[Lightning Talk von Jugend hackt Berlin (Beispiel miti Katzen-GIFs](https://media.ccc.de/v/jh-berlin-2018-4-lightning_talk_webprogrammierung_mit_python_flask)  
+[Lightning Talk von Jugend hackt Berlin (Beispiel miti Katzen-GIFs)](https://media.ccc.de/v/jh-berlin-2018-4-lightning_talk_webprogrammierung_mit_python_flask)  
