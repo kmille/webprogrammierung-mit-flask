@@ -11,6 +11,13 @@ pip install -r requirements.txt
 python list-dir.py  oder  
 python zulip-web.py  
 
+# Konfiguration (wird vom zulip python Modul benötigt)
+(venv) kmille@linbox webprogrammierung-flask master % /bin/cat ~/.zuliprc  
+[api]  
+email=Email-Adresse, die ich bei zulip hinterlegt habe    
+key=[api key](https://zulipchat.com/api/api-keys)  
+site=https://community.jugendhackt.org   
+
 
 # Links
 - [Lightning Talk von Jugend hackt Berlin (Beispiel mit Katzen-GIFs](https://media.ccc.de/v/jh-berlin-2018-4-lightning_talk_webprogrammierung_mit_python_flask)  
