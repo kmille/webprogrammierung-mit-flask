@@ -7,8 +7,8 @@
 # Installation
 virtualenv -p python3 venv  
 source venv/bin/activate   
-pip install -r requirements.txt
-python list-dir.py  oder
+pip install -r requirements.txt  
+python list-dir.py  oder  
 python zulip-web.py  
 
 
