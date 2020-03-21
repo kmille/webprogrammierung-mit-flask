@@ -24,3 +24,10 @@ site=https://community.jugendhackt.org
 - [Zulip API](https://community.jugendhackt.org/api/get-all-users)
 - [flask quickstart](https://flask.palletsprojects.com/en/1.1.x/quickstart/)
 - [Dokumentation der Giphy API](https://github.com/shaunduncan/giphypop)
+
+# Tipps
+- tmux  => ganz viele shells mit shortcuts  
+- zulip api doku für python => https://community.jugendhackt.org/api/get-all-users  
+- ipython > python  
+
+
